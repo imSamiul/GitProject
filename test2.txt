@@ -1,1 +1,2 @@
 This is my second test file of Git tuorial. I am very much happy to learning new things about git.
+I'm also testing my sub branch on this test2 file.
